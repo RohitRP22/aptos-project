@@ -1,6 +1,6 @@
-### Deployed smartcontract address: 0x9417cc1aac382398c7f98af63f7d043f529b1a7b4bc3e7b17eae7f6bd8e2c313
+### Deployed smart-contract address: 0x9417cc1aac382398c7f98af63f7d043f529b1a7b4bc3e7b17eae7f6bd8e2c313
 
-### Screenshot: ![alt text](image.png)
+### Screenshot: ![image](https://github.com/user-attachments/assets/c28dede7-8f61-442c-9664-b0244b0b5aa2)
 
 # Attendance List Smart Contract
 
